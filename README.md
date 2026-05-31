@@ -128,25 +128,6 @@ Expand my expertise in DevOps and Cloud Engineering while continuing to build sc
 
 ---
 
-# 🏆 Featured Projects
-
-### 🚀 DevOps CI/CD Pipeline
-Docker • Jenkins • GitHub Actions • Kubernetes
-
-### ☁️ AWS Infrastructure
-Terraform • EC2 • S3 • IAM • VPC
-
-### ⚙️ NestJS API
-NestJS • PostgreSQL • Redis • JWT
-
-### 🌐 Fullstack Web Application
-Next.js • NestJS • PostgreSQL
-
-### 📱 Mobile Application
-React Native / Flutter
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
