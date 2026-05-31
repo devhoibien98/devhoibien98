@@ -133,14 +133,6 @@ Expand my expertise in DevOps and Cloud Engineering while continuing to build sc
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devhoibien98&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
