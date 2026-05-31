@@ -10,7 +10,6 @@
 
 Building modern web applications, backend systems, and cloud-native infrastructure.
 
-<img src="https://komarev.com/ghpvc/?username=devhoibien98&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
