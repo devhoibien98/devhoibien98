@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Hội
-
+You can call me Alex
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Learning+DevOps+and+Cloud;React+%7C+Next.js+%7C+NestJS;Docker+%7C+Kubernetes+%7C+AWS" />
 
 ### Software Engineering Student @ FPT University Ho Chi Minh City
