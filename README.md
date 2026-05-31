@@ -66,6 +66,8 @@ Expand my expertise in DevOps and Cloud Engineering while continuing to build sc
 ### Data Fetching
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery)
+![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux)
 
 ### Forms
 
