@@ -4,9 +4,9 @@
 
 ### Software Engineering Student @ FPT University Ho Chi Minh City
 
-🚀 Aspiring DevOps & Cloud Engineer
+💻 Fullstack Developer | ☁️ Learning DevOps & Cloud
 
-Passionate about Software Engineering, Cloud Computing, DevOps, System Design, Distributed Systems, SRE, Platform Engineering, and Cloud Native Technologies.
+Passionate about building modern web applications, backend systems, and cloud-native infrastructure.
 
 </div>
 
@@ -16,12 +16,17 @@ Passionate about Software Engineering, Cloud Computing, DevOps, System Design, D
 
 🎓 Software Engineering Student at FPT University Ho Chi Minh City
 
-💻 Passionate about building scalable applications, cloud-native infrastructure, and modern software systems.
+💻 Fullstack Developer with experience in Frontend and Backend development.
 
-☁️ Currently focusing on:
+⚡ Tech Stack:
+
+- Frontend: React, Next.js, TypeScript
+- Backend: Node.js, NestJS, PostgreSQL, MongoDB
+- Mobile: React Native, Flutter
+
+☁️ Currently learning and building projects with:
 
 - Linux
-- Git & GitHub
 - Docker
 - Kubernetes
 - CI/CD
@@ -29,38 +34,9 @@ Passionate about Software Engineering, Cloud Computing, DevOps, System Design, D
 - AWS
 - Cloud Native Technologies
 
-📚 Also learning:
+🎯 Goal
 
-- React
-- Next.js
-- Node.js
-- NestJS
-- React Native
-- Flutter
-- System Design
-- Distributed Systems
-
-🎯 Career Goal
-
-DevOps Engineer → Cloud Engineer → SRE Engineer → Platform Engineer → Staff Engineer → Principal Engineer
-
----
-
-# 🧠 Engineering Interests
-
-- Software Engineering
-- Frontend Architecture
-- Backend Architecture
-- Cloud Computing
-- DevOps
-- Kubernetes
-- Site Reliability Engineering (SRE)
-- Platform Engineering
-- System Design
-- Distributed Systems
-- Microservices
-- Observability
-- AI Infrastructure
+Expand my expertise in DevOps and Cloud Engineering while continuing to build scalable and reliable software systems.
 
 ---
 
@@ -124,7 +100,7 @@ DevOps Engineer → Cloud Engineer → SRE Engineer → Platform Engineer → St
 
 # ☁️ DevOps & Cloud
 
-### Core DevOps
+### Currently Learning
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -142,16 +118,6 @@ DevOps Engineer → Cloud Engineer → SRE Engineer → Platform Engineer → St
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-
----
-
-# 📊 Observability & Monitoring
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry)
 
 ---
 
@@ -162,18 +128,33 @@ DevOps Engineer → Cloud Engineer → SRE Engineer → Platform Engineer → St
 
 ---
 
+# 🏆 Featured Projects
+
+### 🚀 DevOps CI/CD Pipeline
+Docker • Jenkins • GitHub Actions • Kubernetes
+
+### ☁️ AWS Infrastructure
+Terraform • EC2 • S3 • IAM • VPC
+
+### ⚙️ NestJS API
+NestJS • PostgreSQL • Redis • JWT
+
+### 🌐 Fullstack Web Application
+Next.js • NestJS • PostgreSQL
+
+### 📱 Mobile Application
+React Native / Flutter
+
+---
+
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devhoibien98&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhoibien98&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhoibien98&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devhoibien98&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=devhoibien98&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -188,8 +169,8 @@ DevOps Engineer → Cloud Engineer → SRE Engineer → Platform Engineer → St
 
 <div align="center">
 
-### "Continuous Learning • Building • Improving"
+### Learning • Building • Improving 🚀
 
-From Software Engineering Student to Future DevOps, Cloud, SRE, Platform, and Principal Engineer 🚀
+Fullstack Developer | Learning DevOps & Cloud
 
 </div>
