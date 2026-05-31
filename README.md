@@ -67,7 +67,9 @@ Expand my expertise in DevOps and Cloud Engineering while continuing to build sc
 ### Forms
 
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
+![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+![Yup](https://img.shields.io/badge/Yup-7F52FF?style=for-the-badge)
 
 ---
 
