@@ -145,15 +145,20 @@ Expand my expertise in DevOps and Cloud Engineering while continuing to build sc
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-📧 Email: hoidev.codes@gmail.com
+<p align="center">
+  <a href="mailto:hoidev.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-💻 GitHub: https://github.com/devhoibien98
-
+  <a href="https://github.com/devhoibien98">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" width="100%" />
 
 ### Learning • Building • Improving 🚀
 
