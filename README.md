@@ -133,6 +133,14 @@ Expand my expertise in DevOps and Cloud Engineering while continuing to build sc
 
 ---
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devhoibien98&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
 # 📈 GitHub Stats
 
 <p align="center">
@@ -153,15 +161,22 @@ Expand my expertise in DevOps and Cloud Engineering while continuing to build sc
   </a>
 
   <a href="https://github.com/devhoibien98">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" width="100%" />
+<div align="center">
 
-### Learning • Building • Improving 🚀
+### 🚀 Learning • Building • Improving
 
 Fullstack Developer | Learning DevOps & Cloud
+
+Always open to learning new technologies and building impactful projects.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
 
 </div>
