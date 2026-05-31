@@ -2,11 +2,15 @@
 
 # Hi 👋, I'm Hội
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Learning+DevOps+and+Cloud;React+%7C+Next.js+%7C+NestJS;Docker+%7C+Kubernetes+%7C+AWS" />
+
 ### Software Engineering Student @ FPT University Ho Chi Minh City
 
-💻 Fullstack Developer | ☁️ Learning DevOps & Cloud
+💻 Fullstack Developer • ☁️ Learning DevOps & Cloud
 
-Passionate about building modern web applications, backend systems, and cloud-native infrastructure.
+Building modern web applications, backend systems, and cloud-native infrastructure.
+
+<img src="https://komarev.com/ghpvc/?username=devhoibien98&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
