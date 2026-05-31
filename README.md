@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Hoi
+# Hi 👋, I'm Hội
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Learning+DevOps+and+Cloud;React+%7C+Next.js+%7C+NestJS;Docker+%7C+Kubernetes+%7C+AWS" />
 
