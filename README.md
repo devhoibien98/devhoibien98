@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Hoi
+# Hi 👋, I'm Hội
 
 ### Software Engineering Student @ FPT University Ho Chi Minh City
 
