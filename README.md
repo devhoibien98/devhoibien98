@@ -163,11 +163,18 @@ DevOps Engineer → Cloud Engineer → SRE Engineer → Platform Engineer → St
 ---
 
 # 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhoibien98&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devhoibien98&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devhoibien98&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devhoibien98&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhoibien98&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devhoibien98&theme=tokyonight" />
+</p>
 
 ---
 
