@@ -1,175 +1,114 @@
 <div align="center">
 
-# Hi 👋, I'm Hội
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Learning+DevOps+and+Cloud;React+%7C+Next.js+%7C+NestJS;Docker+%7C+Kubernetes+%7C+AWS" />
+# 👋 Xin chào, mình là Hội
 
 ### Software Engineering Student @ FPT University Ho Chi Minh City
 
-💻 Fullstack Developer • ☁️ Learning DevOps & Cloud
+**Fullstack Developer | Developing toward DevOps & Cloud Engineering**
 
-Building modern web applications, backend systems, and cloud-native infrastructure.
+Mình tập trung xây dựng các ứng dụng web và backend theo hướng **scalable, maintainable và production-oriented**, đồng thời phát triển năng lực DevOps & Cloud để có thể đưa hệ thống từ development đến deployment và vận hành.
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💻 Frontend
 
-🎓 Software Engineering Student at FPT University Ho Chi Minh City
+Mình có thể xây dựng **modern web applications** từ UI đến data layer, tập trung vào architecture, state management, data fetching và user experience.
 
-💻 Fullstack Developer with experience in Frontend and Backend development.
+* Xây dựng UI responsive với **React / Next.js / TypeScript**
+* Component architecture và reusable UI
+* Client state & server state management
+* API integration, caching và synchronization
+* Form phức tạp và schema validation
+* Authentication, authorization và protected routes
+* Pagination, infinite scroll và realtime data
+* Error handling, loading states và optimistic updates
+* Frontend testing
 
-⚡ Tech Stack:
+**Libraries / Tools:**
 
-- Frontend: React, Next.js, TypeScript
-- Backend: Node.js, NestJS, PostgreSQL, MongoDB
-- Mobile: React Native, Flutter
-
-☁️ Currently learning and building projects with:
-
-- Linux
-- Docker
-- Kubernetes
-- CI/CD
-- Terraform
-- AWS
-- Cloud Native Technologies
-
-🎯 Goal
-
-Expand my expertise in DevOps and Cloud Engineering while continuing to build scalable and reliable software systems.
-
----
-
-# 🖥️ Frontend
-
-### Core
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### UI
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### State Management
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-
-### Data Fetching
-
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery)
-![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux)
-
-### Forms
-
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
-![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
-![Yup](https://img.shields.io/badge/Yup-7F52FF?style=for-the-badge)
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+`shadcn/ui` · `TanStack Query` · `Zustand` · `Redux Toolkit`
+`React Hook Form` · `Zod` · `Axios` · `Socket.IO`
+`Jest` · `React Testing Library` · `Playwright`
 
 ---
 
 # ⚙️ Backend
 
-### Runtime & Framework
+Mình có thể xây dựng **backend services và REST APIs** theo hướng modular, secure và scalable.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+* RESTful API design
+* Authentication & Authorization
+* JWT, Refresh Token & Session
+* OAuth, SSO, MFA / 2FA
+* RBAC & Permission
+* Validation & centralized error handling
+* Database design & transactions
+* Caching với Redis
+* Background jobs & queues
+* WebSocket / realtime communication
+* API documentation
+* Automated testing
+* Modular architecture & separation of concerns
 
-### APIs
+**Libraries / Tools:**
 
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
-### Messaging
-
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+`Node.js` · `NestJS` · `TypeScript` · `Express`
+`Prisma` · `PostgreSQL` · `MySQL` · `MongoDB`
+`Redis` · `BullMQ` · `RabbitMQ` · `Socket.IO`
+`Passport` · `Swagger` · `Jest` · `Supertest`
 
 ---
 
 # ☁️ DevOps & Cloud
 
-### Currently Learning
+Mình đang phát triển từ **Fullstack Developer** thành developer có thể:
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+**Build → Test → Ship → Deploy → Operate → Scale**
 
-### CI/CD
+### Đang tập trung phát triển:
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
+* **Linux** — server, process, networking, permissions
+* **Docker** — containerization, images, networking, volumes
+* **CI/CD** — tự động hóa build, test và deployment
+* **Kubernetes** — orchestration, scaling, service discovery
+* **Helm** — Kubernetes application deployment
+* **Terraform** — Infrastructure as Code
+* **AWS** — cloud infrastructure & deployment
+* **Nginx** — reverse proxy, load balancing
+* **Observability** — logging, monitoring, metrics & alerting
+* **Security** — secrets, IAM, network security & secure deployment
 
-### Cloud
+**Tools:**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-# 📱 Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+`Linux` · `Git` · `Docker` · `Kubernetes` · `Helm`
+`Terraform` · `GitHub Actions` · `Nginx` · `AWS`
 
 ---
 
-# 📈 GitHub Stats
+# 🧠 Engineering Focus
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhoibien98&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+Mình đang phát triển khả năng không chỉ **build software**, mà còn hiểu toàn bộ vòng đời của một hệ thống:
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=devhoibien98&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:hoidev.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/devhoibien98">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+* System Design
+* Clean & Maintainable Architecture
+* Scalability
+* Performance
+* Security
+* Testing
+* CI/CD
+* Cloud Infrastructure
+* Distributed Systems
+* Production Operations
 
 ---
 
 <div align="center">
 
-### 🚀 Learning • Building • Improving
+### 🚀 Build • Ship • Scale
 
-Fullstack Developer | Learning DevOps & Cloud
-
-Always open to learning new technologies and building impactful projects.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
+**Fullstack Developer → Cloud & DevOps Engineer**
 
 </div>
